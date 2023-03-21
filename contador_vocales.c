@@ -1,5 +1,5 @@
 /*
-vocales.c
+contador_vocales.c
 Palabras con 4 o mas vocales diferentes
 */
 #include <stdio.h>
